@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/02_byte_short_int/02_byte_short_int.iml" filepath="$PROJECT_DIR$/02_byte_short_int/02_byte_short_int.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_float_and_double/03_float_and_double.iml" filepath="$PROJECT_DIR$/03_float_and_double/03_float_and_double.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_char_and_boolean/04_char_and_boolean.iml" filepath="$PROJECT_DIR$/04_char_and_boolean/04_char_and_boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_strings/05_strings.iml" filepath="$PROJECT_DIR$/05_strings/05_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_operators/06_operators.iml" filepath="$PROJECT_DIR$/06_operators/06_operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/CourseUdemy.iml" filepath="$PROJECT_DIR$/CourseUdemy.iml" />
     </modules>
   </component>
