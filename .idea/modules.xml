@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/06_operators/06_operators.iml" filepath="$PROJECT_DIR$/06_operators/06_operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_keywords_and_expressions/07_keywords_and_expressions.iml" filepath="$PROJECT_DIR$/07_keywords_and_expressions/07_keywords_and_expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_statements_whitespace_and_indenting/08_statements_whitespace_and_indenting.iml" filepath="$PROJECT_DIR$/08_statements_whitespace_and_indenting/08_statements_whitespace_and_indenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_ifkeyword_and_codeblocks/09_ifkeyword_and_codeblocks.iml" filepath="$PROJECT_DIR$/09_ifkeyword_and_codeblocks/09_ifkeyword_and_codeblocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/CourseUdemy.iml" filepath="$PROJECT_DIR$/CourseUdemy.iml" />
     </modules>
   </component>
