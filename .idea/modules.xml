@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/09_ifkeyword_and_codeblocks/09_ifkeyword_and_codeblocks.iml" filepath="$PROJECT_DIR$/09_ifkeyword_and_codeblocks/09_ifkeyword_and_codeblocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_methods/10_methods.iml" filepath="$PROJECT_DIR$/10_methods/10_methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/CourseUdemy.iml" filepath="$PROJECT_DIR$/CourseUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testingexercise/testingexercise.iml" filepath="$PROJECT_DIR$/testingexercise/testingexercise.iml" />
     </modules>
   </component>
 </project>
