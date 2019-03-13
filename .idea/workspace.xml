@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d10ea4-ffe3-4a27-99d9-fa8db76ab273" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testingexercise/src/equalSumChecker/EqualSumChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testingexercise/src/equalSumChecker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testingexercise/src/teenNumberChecker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testingexercise/src/teenNumberChecker/TeenNumberChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testingexercise/src/teenNumberChecker/TeenNumberChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="240">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testingexercise/src/teenNumberChecker/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -79,8 +75,8 @@
         <option value="$PROJECT_DIR$/testingexercise/src/equalSumChecker/EqualSumChecker.java" />
         <option value="$PROJECT_DIR$/testingexercise/src/equalSumChecker/Main.java" />
         <option value="$PROJECT_DIR$/testingexercise/src/teenNumberChecker/teenNumberChecker.java" />
-        <option value="$PROJECT_DIR$/testingexercise/src/teenNumberChecker/TeenNumberChecker.java" />
         <option value="$PROJECT_DIR$/testingexercise/src/teenNumberChecker/Main.java" />
+        <option value="$PROJECT_DIR$/testingexercise/src/teenNumberChecker/TeenNumberChecker.java" />
       </list>
     </option>
   </component>
@@ -104,7 +100,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,34 +107,17 @@
               <item name="CourseUdemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="CourseUdemy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CourseUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="testingexercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="testingexercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CourseUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CourseUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="testingexercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="teenNumberChecker" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552315031701" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552315147681" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sda2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -265,18 +243,19 @@
       <workItem from="1552243124388" duration="9539000" />
       <workItem from="1552257979509" duration="2547000" />
       <workItem from="1552294114487" duration="15660000" />
-      <workItem from="1552314441736" duration="515000" />
+      <workItem from="1552314441736" duration="979000" />
+      <workItem from="1552389156187" duration="1612000" />
+      <workItem from="1552482365842" duration="779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65803000" />
+    <option name="totallyTimeSpent" value="68658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20953101" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -501,15 +480,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testingexercise/src/teenNumberChecker/TeenNumberChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="240">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testingexercise/src/teenNumberChecker/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
