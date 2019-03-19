@@ -1,4 +1,4 @@
-package areacalculator;
+package courseudemy.areacalculator;
 
 import static java.lang.Math.PI;
 

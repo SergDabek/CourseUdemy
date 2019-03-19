@@ -1,4 +1,4 @@
-package equalityprinter;
+package courseudemy.equalityprinter;
 
 public class EqualityPrinter {
 

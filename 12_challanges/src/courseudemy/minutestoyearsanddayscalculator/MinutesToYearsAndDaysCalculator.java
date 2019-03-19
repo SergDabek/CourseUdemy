@@ -1,4 +1,4 @@
-package minutestoyearsanddayscalculator;
+package courseudemy.minutestoyearsanddayscalculator;
 
 public class MinutesToYearsAndDaysCalculator {
 

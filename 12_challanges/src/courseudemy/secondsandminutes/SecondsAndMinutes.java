@@ -1,4 +1,4 @@
-package secondsandminutes;
+package courseudemy.secondsandminutes;
 
 public class SecondsAndMinutes {
 

@@ -1,4 +1,4 @@
-package playingcat;
+package courseudemy.playingcat;
 
 public class PlayingCat {
 
