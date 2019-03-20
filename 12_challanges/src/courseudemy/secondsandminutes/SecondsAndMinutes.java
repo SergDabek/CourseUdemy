@@ -13,7 +13,7 @@ public class SecondsAndMinutes {
     }
 
     private static String getDurationString(long minutes, long seconds){
-        if ((minutes < 0) || (seconds < 0 || (seconds > 59))){
+        if ((minutes < 0) || (seconds < 0) || (seconds > 59)){
             return INVALID_VALUE_MESSAGE;
         }
 
